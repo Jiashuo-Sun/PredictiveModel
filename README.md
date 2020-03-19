@@ -41,7 +41,8 @@ All four methods I used are just simple classifiers, so other complicated method
 
 Run some dimension reduction methods before modeling might be another approach, since I used all features in the dataset to complete the prediction. It might reduce the dataset size and will be suitable for larger dataset. 
 
-Update:
+**Update:**
+
 After 6 months I finished this project, now it seems that there are plenty loopholes in this project: dataset was not preprocessed thoroughly, no feature selection was a huge flaw, and methods I used were simple. 
 Despite so many flaws, this project provides the base pipeline of a data science project. Modeling may be fancy but data cleansing and feature engineering are more important for a project's success.
 
