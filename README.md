@@ -4,8 +4,8 @@ This is the Data Science Project at [SharpestMinds](https://www.sharpestminds.co
 
 ### Project Aims:
 
-- Predict customer's behavior to retain them
-- Compare different methods and find the best one
+- Predict customer's behavior to retain them.
+- Compare different methods and find the best one.
 - Work on an on-hand data science project end-to-end.
 
 ### Data Source:
