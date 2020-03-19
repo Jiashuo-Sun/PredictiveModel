@@ -24,7 +24,7 @@ After reading [Hands-on: Predict Customer Churn](https://towardsdatascience.com/
 
 ### Models and Results:
 
-I used k-NN, Decision Tree, SVM and Logistic Regression methods to build the models.
+I used k-NN, Decision Tree, SVM and Logistic Regression methods to build the predictive models and run each one on the test set to get the accuracy.
 
 | Methods | Accuracy |
 | ------- | -------- |
@@ -37,9 +37,9 @@ In this project, logistic regression was the best classifier model with highest 
 
 ### Future Work:
 
-All four methods I used are just simple classifiers, so other complicated methods (random forests, neural networks, etc) may have better performance based on this dataset. (When data size is not extremely large, algorithms will have more influence on the performance. So choose wisely~) 
+- All four methods I used are just simple classifiers, so other complicated methods (random forests, neural networks, etc) may have better performance based on this dataset. (When data size is not extremely large, algorithms will have more influence on the performance. So choose wisely~) 
 
-Run some dimension reduction methods before modeling might be another approach, since I used all features in the dataset to complete the prediction. It might reduce the dataset size and will be suitable for larger dataset. 
+- Run some dimension reduction methods before modeling might be another approach, since I used all features in the dataset to complete the prediction. It might reduce the dataset size and will be suitable for larger dataset. 
 
 **Update:**
 
